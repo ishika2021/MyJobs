@@ -1,0 +1,80 @@
+.SignUpContainer{
+    height:900px;
+    width:100%;
+    background-color: #EDF6FF;
+}
+.SignUpBox{ 
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: absolute;
+    top: 95px;
+    left: 425px;
+    border-radius: 20px;
+    height:711px;
+    width:557px;
+}
+.MainContainer{
+    height:900px;
+    width:100%;
+    background-color: #EDF6FF;
+}
+.Navigation{
+    height: 70px;
+    width: 100%;
+    background: #303F60;
+    position: relative;
+    border-bottom:1px solid #4D618E;
+}
+.Top{
+    height:px;
+    background: #303F60;
+}
+.section1{
+    width:90%;
+    margin-top: 0;
+}
+.section1>h4{
+    margin-top:0;
+    font-size: 22px;
+    font-family: Helvetica Neue;;
+}
+.btn{
+    width: 148px;
+    height: 46px;
+    background-color: #43AFFF;
+    border: 1px solid #43AFFF ;
+    border-radius: 5px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 16px;
+    font-family: Helvetica Neue;;
+    margin-right: 30px;
+}
+
+.InputBox{
+    margin-bottom: 10px;
+}
+.passwordBox{
+    display: flex;
+    width: 497px;
+    justify-content: space-between;
+}
+.passwordBox>.InputBox{
+    width:238px;
+}
+.passwordBox>.InputBox>input{
+    width:230px;
+}
+.haveAccount{
+    margin-left: -30px;
+}
+.error{
+    font-size: 18px;
+    font-family: Helvetica Neue;;
+    color:red;
+    margin:0px;
+    margin-right: 20px;
+}

@@ -1,0 +1,95 @@
+.MainContainer{
+    height:900px;
+    width:100%;
+    background-color: #EDF6FF;
+}
+.Navigation{
+    height: 70px;
+    width: 100%;
+    background: #303F60;
+    position: relative;
+    border-bottom:1px solid #4D618E;
+}
+.Top{
+    height:px;
+    background: #303F60;
+}
+.LoginContainer{
+    height:900px;
+    width:100%;
+    background-color: #EDF6FF;
+}
+
+.LoginBox{
+    position: absolute;
+    top: 120px;
+    left: 380px;
+    width: 557px;
+    height: 427px;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 30px 36px #557DA526;
+    border-radius: 20px;
+    opacity: 1;
+}
+
+h6{
+    font-size: 22px;
+    font-family: Helvetica Neue;
+    margin-left: 18px;
+    margin-top: 70px;
+    
+}
+.AllInputBox{
+    margin-top:80px;
+    margin-left: 18px;
+}
+.InputBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 497px;
+    height: 70px;
+    margin-bottom: 20px;
+    
+}
+input{
+    height:46px;
+    width:497px;
+    border: 1px solid #C6C6C6;
+    border-radius:5px ;
+    background-color: #E8E8E833;
+    color:black;
+}
+input:hover{
+    border: 1px solid #43AFFF;
+}
+span{
+    font-size: 14px;
+    font-family: Helvetica Neue;;
+}
+.login{
+    
+    width: 148px;
+    height: 46px;
+    background-color: #43AFFF;
+    border: 1px solid #43AFFF ;
+    border-radius: 5px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+    top: 280px;
+    left: 200px;
+    font-size: 16px;
+    font-family: Helvetica Neue;;
+}
+.newAccount{
+    position: absolute;
+    top: 370px;
+    left: 150px;
+    width: 262px;
+    height: 19px;
+    text-align: center;
+    letter-spacing: 0px;
+    opacity: 1;
+}

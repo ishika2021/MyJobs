@@ -1,0 +1,23 @@
+.ForgotContainer{
+    height:900px;
+    width:100%;
+    background-color: #EDF6FF;
+}
+.ForgotBox{
+    position: absolute;
+    width:527px;
+    height:300px;
+    top: 116px;
+    left: 350px;
+    padding-left: 30px;
+    border-radius: 30px;
+    background-color: #fff;
+}
+.InputBox{
+    width:497px;
+}
+.ForgotBox>.btn{
+    position: absolute;
+    top:220px;
+    left:200px;
+}

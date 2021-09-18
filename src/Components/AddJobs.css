@@ -1,0 +1,23 @@
+/* .Middle{
+    height:500px;
+    width:100%;
+    background-color: #EDF6FF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    font-size: 150px;
+    opacity: 0.5;
+    color:#CBD3DD;
+}
+.addJobText{
+    color:#303F60;
+    font-size: 22px;
+    font-family: Helvetica Neue;
+}
+.Middle>.btn{
+    margin-top: 30px;
+    margin-left: 30px;
+} */
